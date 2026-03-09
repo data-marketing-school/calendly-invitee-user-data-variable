@@ -1,4 +1,5 @@
 homepage: "https://www.data-marketing-school.com/en"
+documentation: "https://data-marketing-school.com/en/blog/google-tag-manager/calendly-meetings/"
 versions:
   - sha: 38c546e2ab0033cf7862b39c50041c535a06176a
     changeNotes: Initial release.
